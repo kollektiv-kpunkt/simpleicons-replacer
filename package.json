@@ -1,0 +1,33 @@
+{
+    "name": "@kollektiv-kpunkt/simpleicons-replacer",
+    "version": "1.0.0",
+    "description": "Replaces HTML i-Tags with SVG from https://simpleicons.org/",
+    "main": "index.js",
+    "scripts": {
+        "start": "es-dev-server --app-index index.html --node-resolve --watch --open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kollektiv-kpunkt/simpleicons-replacer.git"
+    },
+    "keywords": [
+        "simple-icons",
+        "svg",
+        "replacer",
+        "icons",
+        "<i>",
+        "brand icons"
+    ],
+    "dependencies": {
+        "simple-icons": "^7.19.0"
+    },
+    "devDependencies": {
+        "es-dev-server": "^2.1.0"
+    },
+    "author": "timothy_k.",
+    "license": "CC0-1.0",
+    "bugs": {
+        "url": "https://github.com/kollektiv-kpunkt/simpleicons-replacer/issues"
+    },
+    "homepage": "https://github.com/kollektiv-kpunkt/simpleicons-replacer#readme"
+}
