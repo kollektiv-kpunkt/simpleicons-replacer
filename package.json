@@ -1,6 +1,6 @@
 {
     "name": "@kollektiv-kpunkt/simpleicons-replacer",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Replaces HTML i-Tags with SVG from https://simpleicons.org/",
     "main": "index.js",
     "scripts": {
